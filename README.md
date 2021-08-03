@@ -2,4 +2,4 @@
 
 This repo consists scripts for scraping Trip Advisor site. 
 I use scrapy framework with python.
-The purpose is to scrape info and reviews for hotels restaurants and attractions for Greece.
+The purpose is to scrape info and reviews for hotels restaurants and attractions in Greece.
